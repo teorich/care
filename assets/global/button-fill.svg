@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 195 40" style="enable-background:new 0 0 195 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Rectangle-10_1_);}
+</style>
+<title>Rectangle 10</title>
+<desc>Created with Sketch.</desc>
+<g id="main">
+	<g id="The-Specs---desktop" transform="translate(-1109.000000, -32.000000)">
+		<g id="_x31_---Header" transform="translate(-560.000000, 0.000000)">
+			<g id="top-nav" transform="translate(696.000000, 32.000000)">
+				<g id="CTA" transform="translate(973.000000, 0.000000)">
+					
+						<linearGradient id="Rectangle-10_1_" gradientUnits="userSpaceOnUse" x1="-212.7333" y1="422.4601" x2="-210.4916" y2="425.8588" gradientTransform="matrix(39.1841 -8.0378 8.0378 39.1841 4980.0459 -18301.2012)">
+						<stop  offset="0" style="stop-color:#FF0368"/>
+						<stop  offset="1" style="stop-color:#6703FF"/>
+					</linearGradient>
+					<path id="Rectangle-10" class="st0" d="M191,0H4C1.8,0,0,1.8,0,4v32c0,2.2,1.8,4,4,4h187c2.2,0,4-1.8,4-4V4
+						C195,1.8,193.2,0,191,0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
